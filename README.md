@@ -1,36 +1,21 @@
-# Project Title
+# Laravel simple blog
 
-One Paragraph of project description goes here
+This is a simple laravel blog 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Either clone this repository to a local repository on your computer or download the zip file and extract it.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Make sure you have the following installed for the blog app to work.
+    Apache 2.4.38
+    PHP 7.3.2
+An easy way to do this is installing <a href="https://www.apachefriends.org/download.html">Xampp</a> or <a href="http://www.wampserver.com/en/">Wamp</a>
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+With Wamp or Xampp installed you are good to go. start the apache and php services by launching wamp which does this for you and for xampp start the services by clicking on the start buttons on apache and php. Open your browser and type localhost/public to them view the blog app. 
 
 ## Running the tests
 
@@ -58,9 +43,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Laravel](https://laravel.com/docs/5.7) - The web framework used
 
 ## Contributing
 
@@ -72,17 +55,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Eric Mwangi** - (https://github.com/ericmw)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
